@@ -3,7 +3,6 @@ title: "Complementing Machine Learning Classifiers Via Dynamic Symbolic Executio
 "
 collection: publications
 permalink: /publications/CMLvDSE
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-05-27
 venue: 'International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering (RAISE)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
