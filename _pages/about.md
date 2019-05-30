@@ -14,7 +14,7 @@ redirect_from:
 
 * I am a second-year Ph.D student in the [Software Engineering Research Center](https://cse.uta.edu/research/centers-labs.php#serc) at the [University of Texas at Arlington](https://www.uta.edu). 
 * I received my Bachelor’s Degree in Computer Engineering from [Kathmandu University](ku.edu.np) 
-*  My research focuses on applications and development of deep learning methods for Software Engineering and vice versa.
+*  My research focuses on applications and development of Machine Learning/deep learning methods as well as natural language processing for Software Engineering and vice versa.
 
 
 # Recent News
