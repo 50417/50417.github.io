@@ -1,6 +1,5 @@
 ---
-title: "Complementing Machine Learning Classifiers Via Dynamic Symbolic Execution:“Human vs. Bot Generated” Tweets.
-"
+title: "Complementing Machine Learning Classifiers Via Dynamic Symbolic Execution:Human vs. Bot Generated Tweets."
 collection: publications
 permalink: /publications/CMLvDSE
 date: 2018-05-27
