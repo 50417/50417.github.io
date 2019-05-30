@@ -26,4 +26,4 @@ redirect_from:
 * November 11–16, 2018. I volunteered in [International Conference for High Performance Computing, Networking, Storage and Analysis (SC18)](https://sc18.supercomputing.org/).
 * June 10 - June 15, 2018. I volunteered in [SIGMOD/PODS](https://sigmod2018.org/).
 * May 27, 2018. I gave a talk at RAISE 2018. Slides could be found [here](http://ranger.uta.edu/~csallner/papers/Shrestha18Complementing_Slides.pptx).
-* January 22, 2018. Our paper ["Complementing Machine Learning Classifiers Via Dynamic Symbolic Execution:“Human vs. Bot Generated” Tweets"](http://ranger.uta.edu/~csallner/papers/Shrestha18Complementing.pdf) came out in International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering (RAISE).
+* January 22, 2018. Our paper ["Complementing Machine Learning Classifiers Via Dynamic Symbolic Execution:“Human vs. Bot Generated” Tweets"](http://ranger.uta.edu/~csallner/papers/Shrestha18Complementing.pdf) came out in International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering [(RAISE)](http://promisedata.org/raise/2018/).
