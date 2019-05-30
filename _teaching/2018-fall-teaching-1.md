@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2018-fall-teaching-1
 venue: "University of Texas at Arlington, Department of Computer Science and Engineering"
-date: Fall 2018
+date: 2018-08-24
 location: "Arlington, TX"
 ---
 

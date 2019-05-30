@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2019-spring-teaching-2
 venue: "University of Texas at Arlington, Department of Computer Science and Engineering"
-date: Spring 2019
+date: 2019-01-17
 location: "Arlington, TX"
 ---
 
