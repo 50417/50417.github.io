@@ -12,4 +12,3 @@ location: "Arlington, TX"
 * Grade homework and exams for Algorithms and Data Structure (CSE 5311)
 * Prepare programming assignments and grade accordingly
 * Organize and lead review sessions about specific topics as requested by instructor
-* Gave a lectures on Master Theorem.

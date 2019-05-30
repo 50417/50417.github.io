@@ -2,7 +2,7 @@
 title: "Complementing Machine Learning Classifiers Via Dynamic Symbolic Execution:“Human vs. Bot Generated” Tweets.
 "
 collection: publications
-permalink: /publication/CMLvDSE
+permalink: /publications/CMLvDSE
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-05-27
 venue: 'International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering (RAISE)'
