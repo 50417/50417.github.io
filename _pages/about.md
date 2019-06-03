@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://50417.github.io/files/Sohil_IMG.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://50417.github.io/files/Sohil_IMG.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a second-year Ph.D student in the [Software Engineering Research Center](https://cse.uta.edu/research/centers-labs.php#serc) at the [University of Texas at Arlington](https://www.uta.edu). 
