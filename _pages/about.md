@@ -19,6 +19,7 @@ redirect_from:
 
 # Recent News
 
+* May 30, 2019. I received Diversity and Inclusion fellowship to attend [ICML](https://icml.cc/).
 * May 18 - May 25, 2019. I was accepted to [Ninth Summer School on Formal Techniques](http://fm.csl.sri.com/SSFT19/).
 * December 2 - 8, 2018. I volunteered in [NeurIPS](https://nips.cc/Conferences/2018).
 * November 30 - December 2,2018. I received travel grant to attend [Self-Organizing Conference on Machine Learning](https://sites.google.com/view/socml-2018/home).
