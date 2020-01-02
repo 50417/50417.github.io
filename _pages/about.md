@@ -18,8 +18,8 @@ redirect_from:
 
 
 # Recent News
-* December 8, 2019. Our paper ["SLEMI: Equivalence Modulo Input (EMI) Based Mutation of CPS
-              Models for Finding Compiler Bugs in Simulink] was accepted in International Conference in Software Engineering 2020[(ICSE)](https://conf.researchr.org/home/icse-2020) in 
+* December 8, 2019. Our paper [SLEMI: Equivalence Modulo Input (EMI) Based Mutation of CPS
+              Models for Finding Compiler Bugs in Simulink] was accepted in International Conference in Software Engineering 2020[(ICSE)](https://conf.researchr.org/home/icse-2020)
 * May 30, 2019. Received Diversity and Inclusion fellowship to attend [ICML](https://icml.cc/).
 * May 18 - 25, 2019. Was accepted to [Ninth Summer School on Formal Techniques](http://fm.csl.sri.com/SSFT19/).
 * December 2 - 8, 2018. Volunteered in [NeurIPS](https://nips.cc/Conferences/2018).
