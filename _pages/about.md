@@ -18,8 +18,11 @@ redirect_from:
 
 
 # Recent News
+* February 6, 2020. [Demo: SLEMI: Finding Simulink Compiler Bugs through Equivalence Modulo Input (EMI)] was accepted at [ICSE 2020](https://conf.researchr.org/home/icse-2020).
+* February 2, 2020. I will be presenting my research "Automatic Generation of Simulink Models to Find Bugs in a Cyber-Physical System Tool Chain using Deep Learning" at [ACM Student Research Competition at ICSE 2020](https://conf.researchr.org/home/icse-2020).
 * December 8, 2019. Our paper [SLEMI: Equivalence Modulo Input (EMI) Based Mutation of CPS
-              Models for Finding Compiler Bugs in Simulink] was accepted in International Conference in Software Engineering 2020[(ICSE)](https://conf.researchr.org/home/icse-2020)
+              Models for Finding Compiler Bugs in Simulink](http://ranger.uta.edu/~csallner/papers/Chowdhury20SLEMI.pdf) was accepted in International Conference in Software Engineering 2020[(ICSE)](https://conf.researchr.org/home/icse-2020)
+* August 8, 2019. Our National Science Foundation [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1911017&HistoricalAwards=false) to explore mutation and deep-learning based compiler validation has been accepted!  
 * May 30, 2019. Received Diversity and Inclusion fellowship to attend [ICML](https://icml.cc/).
 * May 18 - 25, 2019. Was accepted to [Ninth Summer School on Formal Techniques](http://fm.csl.sri.com/SSFT19/).
 * December 2 - 8, 2018. Volunteered in [NeurIPS](https://nips.cc/Conferences/2018).
