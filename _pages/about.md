@@ -20,7 +20,7 @@ redirect_from:
 # Recent News
 * February 26, 2020. [DeepFuzzSL: Generating Models with Deep Learning to Find Bugs in the Simulink Compiler](http://ranger.uta.edu/~csallner/papers/Shrestha20DeepFuzzSL.pdf) was accepted at [DeepTest 2020](https://deeptestconf.github.io/).
 * February 6, 2020. [Demo: SLEMI: Finding Simulink Compiler Bugs through Equivalence Modulo Input (EMI)](http://ranger.uta.edu/~csallner/papers/Chowdhury20Demo.pdf) was accepted at [ICSE 2020](https://conf.researchr.org/home/icse-2020).
-* February 2, 2020. I will be presenting my research [Automatic Generation of Simulink Models to Find Bugs in a Cyber-Physical System Tool Chain using Deep Learning](https://github.com/50417/50417.github.io/tree/master/files) at [ACM Student Research Competition at ICSE 2020](https://conf.researchr.org/home/icse-2020).
+* February 2, 2020. I will be presenting my research [Automatic Generation of Simulink Models to Find Bugs in a Cyber-Physical System Tool Chain using Deep Learning](https://github.com/50417/50417.github.io/tree/master/files/DeepFuzzSL_SRC.pdf) at [ACM Student Research Competition at ICSE 2020](https://conf.researchr.org/home/icse-2020).
 * December 8, 2019. Our paper [SLEMI: Equivalence Modulo Input (EMI) Based Mutation of CPS
               Models for Finding Compiler Bugs in Simulink](http://ranger.uta.edu/~csallner/papers/Chowdhury20SLEMI.pdf) was accepted in International Conference in Software Engineering 2020[(ICSE)](https://conf.researchr.org/home/icse-2020)
 * August 8, 2019. Our National Science Foundation [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1911017&HistoricalAwards=false) to explore mutation and deep-learning based compiler validation has been accepted!  
