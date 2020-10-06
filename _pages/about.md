@@ -18,6 +18,8 @@ redirect_from:
 
 
 # Recent News
+* July 7th -11th, 2020. Volunteered in [ICSE](https://conf.researchr.org/home/icse-2020).
+* July 1st, 2020. Presented [DeepFuzzSL: Generating Models with Deep Learning to Find Bugs in the Simulink Compiler](http://ranger.uta.edu/~csallner/papers/Shrestha20DeepFuzzSL.pdf) at [DeepTest 2020](https://www.youtube.com/watch?v=DwADkAUr2ys&feature=youtu.be&t=7495)
 * February 26, 2020. [DeepFuzzSL: Generating Models with Deep Learning to Find Bugs in the Simulink Compiler](http://ranger.uta.edu/~csallner/papers/Shrestha20DeepFuzzSL.pdf) was accepted at [DeepTest 2020](https://deeptestconf.github.io/).
 * February 6, 2020. [Demo: SLEMI: Finding Simulink Compiler Bugs through Equivalence Modulo Input (EMI)](http://ranger.uta.edu/~csallner/papers/Chowdhury20Demo.pdf) was accepted at [ICSE 2020](https://conf.researchr.org/home/icse-2020).
 * February 2, 2020. I will be presenting my research [Automatic Generation of Simulink Models to Find Bugs in a Cyber-Physical System Tool Chain using Deep Learning](https://github.com/50417/50417.github.io/tree/master/files/DeepFuzzSL_SRC.pdf) at [ACM Student Research Competition at ICSE 2020](https://conf.researchr.org/home/icse-2020).
