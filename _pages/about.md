@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://50417.github.io/files/Sohil_IMG.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am a third-year Ph.D student in the [Software Engineering Research Center](https://cse.uta.edu/research/centers-labs.php#serc) at the [University of Texas at Arlington](https://www.uta.edu). 
+* I am a Ph.D candidate in the [Software Engineering Research Center](https://cse.uta.edu/research/centers-labs.php#serc) at the [University of Texas at Arlington](https://www.uta.edu). 
 * I received my Bachelor’s Degree in Computer Engineering from [Kathmandu University](ku.edu.np) 
 *  My research focuses on applications and development of machine learning/deep learning methods as well as natural language processing for Software Engineering and vice versa.
 
