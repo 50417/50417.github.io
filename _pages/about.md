@@ -18,6 +18,7 @@ redirect_from:
 
 
 # Recent News
+* May 1, 2023, Defended my Dissertation Proposal.
 * May - August, 2022. Interned at [Meta](https://www.meta.com). Worked in budget pacing system of Facebook Marketplace. 
 * May 18, 2022. Presented [SLNET: A Redistributable Corpus of 3rd-party Simulink Models](https://ranger.uta.edu/~csallner/papers/Shrestha22SLNET.pdf) at [MSR 2022](https://conf.researchr.org/track/msr-2022/msr-2022-data-showcase?#program) [Talk](https://www.youtube.com/watch?v=2l6OTSMFZYY) [Metric Tool](https://zenodo.org/record/6336048)
 * March 4, 2022. SLNET: A Redistributable Corpus of 3rd-party Simulink Models was accepted at [MSR 2022](https://conf.researchr.org/track/msr-2022/msr-2022-data-showcase#)
