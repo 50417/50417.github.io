@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 * I am a Ph.D candidate in the [Software Engineering Research Center](https://cse.uta.edu/research/centers-labs.php#serc) at the [University of Texas at Arlington](https://www.uta.edu). 
-* I received my Bachelor’s Degree in Computer Engineering from [Kathmandu University](ku.edu.np) 
+* I received my Bachelor’s Degree in Computer Engineering from [Kathmandu University](https://ku.edu.np) 
 *  My research focuses on applications and development of machine learning/deep learning methods as well as natural language processing for Software Engineering and vice versa.
 
 
