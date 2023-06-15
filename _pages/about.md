@@ -19,7 +19,7 @@ redirect_from:
 
 # Recent News
 * June 5, 2023, Harnessing Large Language Models for Simulink Toolchain Testing and Developing Diverse Open-Source Corpora of Simulink Models for Metric and Evolution Analysis is accepted in [ISSTA 2023 Doctoral Symposium](https://2023.issta.org/track/ecoop-issta-2023-doctoral-symposium)
-* May 22, 2023, Accepted in the Studend Volunteer program in [ISSTA 2023](https://conf.researchr.org/home/issta-2023)
+* May 22, 2023, Accepted in the Student Volunteer program in [ISSTA 2023](https://conf.researchr.org/home/issta-2023)
 * May 19, 2023, Accepted in [PEARC 23 Student Program](https://pearc.acm.org/pearc23/student-program/)
 * May 9, 2023, Received UTA Graduate School Summer Dissertation Fellowship.
 * May 1, 2023, Defended my Dissertation Proposal.
