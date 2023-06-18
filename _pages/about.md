@@ -18,6 +18,7 @@ redirect_from:
 
 
 # Recent News
+* June 17, 2023, Received [UAI 2023](https://www.auai.org/uai2023/) Student Scholarship.
 * June 5, 2023, Harnessing Large Language Models for Simulink Toolchain Testing and Developing Diverse Open-Source Corpora of Simulink Models for Metric and Evolution Analysis is accepted in [ISSTA 2023 Doctoral Symposium](https://2023.issta.org/track/ecoop-issta-2023-doctoral-symposium)
 * June 1, 2023, Received ACM Grant for SIGSOFT CAPS ISSTA 2023
 * June 1, 2023, Received Grant to attend PEARC 2023 [CSSN Community Engagement Grant](https://support.access-ci.org/ccep-pilot)
