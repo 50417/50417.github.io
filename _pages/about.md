@@ -18,6 +18,7 @@ redirect_from:
 
 
 # Recent News
+* June 27, 2023, EvoSL: A Large Open-Source Corpus of Changes in Simulink Models & Projects is accepted at [MODELS 2023](https://conf.researchr.org/track/models-2023/models-2023-technical-track)
 * June 17, 2023, Received [UAI 2023](https://www.auai.org/uai2023/) Student Scholarship.
 * June 5, 2023, Harnessing Large Language Models for Simulink Toolchain Testing and Developing Diverse Open-Source Corpora of Simulink Models for Metric and Evolution Analysis is accepted in [ISSTA 2023 Doctoral Symposium](https://2023.issta.org/track/ecoop-issta-2023-doctoral-symposium)
 * June 1, 2023, Received ACM Grant for SIGSOFT CAPS ISSTA 2023
