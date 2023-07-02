@@ -2,7 +2,7 @@
 title: "SLGPT: Using transfer learning to directly generate Simulink model files and find bugs in the Simulink toolchain."
 collection: publications
 permalink: /publications/SLGPT
-venue: "EASE"
+venue: "EASE (CORE A, Acceptance rate: 33.3%)"
 date: 2021-5-27
 citation: '<b>Shrestha, Sohil L.</b> and Christoph Csallner. "SLGPT: Using transfer learning to directly generate Simulink model files and find bugs in the Simulink toolchain. Proc. 25th International Conference on Evaluation and Assessment in Software Engineering (EASE), Vision and Emerging Results Track, 2021.'
 ---

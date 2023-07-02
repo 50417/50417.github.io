@@ -2,7 +2,7 @@
 title: "SLEMI: Equivalence modulo input (EMI) based mutation of CPS models for finding compiler bugs in Simulink."
 collection: publications
 permalink: /publications/SLEMI
-venue: "ICSE"
+venue: "ICSE (CORE A*, Acceptance rate: 20.9%)"
 date: 2020-5-27
 citation: 'Shafiul Azam Chowdhury, <b>Sohil Lal Shrestha</b>, Taylor T. Johnson and Christoph Csallner. "SLEMI: Equivalence modulo input (EMI) based mutation of CPS models for finding compiler bugs in Simulink." Proc. 42nd ACM/IEEE International Conference on Software Engineering (ICSE), 2020.'
 ---

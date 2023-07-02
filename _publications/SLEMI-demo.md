@@ -2,7 +2,7 @@
 title: "Demo: SLEMI: Finding Simulink Compiler Bugs throughEquivalence Modulo Input (EMI)"
 collection: publications
 permalink: /publications/SLEMI-demo
-venue: "ICSE"
+venue: "ICSE (CORE A*, Acceptance rate: 33.3%)"
 date: 2020-5-27
 citation: 'Shafiul Azam Chowdhury, <b>Sohil Lal Shrestha</b>, Taylor T. Johnson and Christoph Csallner. "Demo: SLEMI: Finding Simulink Compiler Bugs through
 Equivalence Modulo Input (EMI)" Proc. 42nd ACM/IEEE International Conference on Software Engineering (ICSE), 2020.'
