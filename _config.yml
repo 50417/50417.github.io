@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sohil Shrestha"
   avatar           : "sohil.png"
-  bio              : "PhD Student, UT-Arlington"
-  location         : "Arlington, Texas"
+  bio              : "PhD candidate, UT-Arlington"
+  location         : "Addison, Texas"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=zyjaxNYAAAAJ&hl=en&oi=ao"
   email            : "sohail.stha@gmail.com"
@@ -98,11 +98,11 @@ author:
   github           : "50417"
   google_plus      :
   keybase          :
-  instagram        : "sohil_newa"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "sohilshrestha"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0837-8388"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -112,7 +112,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCViBqxr9Swie9JORSchbxRA"
   wikipedia        :
 
 
