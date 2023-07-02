@@ -18,7 +18,8 @@ redirect_from:
 
 
 # Recent News
-* June 27, 2023, EvoSL: A Large Open-Source Corpus of Changes in Simulink Models & Projects is accepted at [MODELS 2023](https://conf.researchr.org/track/models-2023/models-2023-technical-track)
+* July 1st, 2023, Replicability Study: Corpora For Understanding Simulink Models & Projects is accepted at [ESEM 2023](https://conf.researchr.org/home/esem-2023) (CORE A, Acceptance rate: 29%)
+* June 27, 2023, EvoSL: A Large Open-Source Corpus of Changes in Simulink Models & Projects is accepted at [MODELS 2023](https://conf.researchr.org/track/models-2023/models-2023-technical-track) (CORE A, Acceptance rate: 24.6%)
 * June 23, 2023, Accepted as a [WISP](https://www.wisporg.com) Scholar to attend [blackhat](https://www.blackhat.com/us-23/briefings.html) USA 2023 Conference 
 * June 17, 2023, Received [UAI 2023](https://www.auai.org/uai2023/) Student Scholarship.
 * June 5, 2023, Harnessing Large Language Models for Simulink Toolchain Testing and Developing Diverse Open-Source Corpora of Simulink Models for Metric and Evolution Analysis is accepted in [ISSTA 2023 Doctoral Symposium](https://2023.issta.org/track/ecoop-issta-2023-doctoral-symposium)
@@ -34,14 +35,14 @@ redirect_from:
 * March 4, 2022. SLNET: A Redistributable Corpus of 3rd-party Simulink Models was accepted at [MSR 2022](https://conf.researchr.org/track/msr-2022/msr-2022-data-showcase#)
 * June 21, 2021, Presented [SLGPT: Using transfer learning to directly generate Simulink model files and find bugs in the Simulink toolchain.](https://ranger.uta.edu/~csallner/papers/Shrestha21SLGPT.pdf) at EASE 2021. [Talk](https://www.youtube.com/watch?v=oy6l22xl8Tw)
 * May - August, 2021. Interned at [Atos Syntel](https://atos.net/en/). Worked in computer vision, natural language processing related projects. 
-* April 20, 2021. [SLGPT: Using transfer learning to directly generate Simulink model files and find bugs in the Simulink toolchain.](https://ranger.uta.edu/~csallner/papers/Shrestha21SLGPT.pdf) was accepted at [EASE 2021](https://conf.researchr.org/track/ease-2021/ease-2021-vision-and-emerging-results-track?#event-overview)
+* April 20, 2021. [SLGPT: Using transfer learning to directly generate Simulink model files and find bugs in the Simulink toolchain.](https://ranger.uta.edu/~csallner/papers/Shrestha21SLGPT.pdf) was accepted at [EASE 2021](https://conf.researchr.org/track/ease-2021/ease-2021-vision-and-emerging-results-track?#event-overview) (CORE A, Acceptance rate: 33.3%)
 * July 7 -11, 2020. Volunteered in [ICSE](https://conf.researchr.org/home/icse-2020).
 * July 1, 2020. Presented [DeepFuzzSL: Generating Models with Deep Learning to Find Bugs in the Simulink Compiler](http://ranger.uta.edu/~csallner/papers/Shrestha20DeepFuzzSL.pdf) at [DeepTest 2020](https://www.youtube.com/watch?v=DwADkAUr2ys&feature=youtu.be&t=7495)
 * February 26, 2020. [DeepFuzzSL: Generating Models with Deep Learning to Find Bugs in the Simulink Compiler](http://ranger.uta.edu/~csallner/papers/Shrestha20DeepFuzzSL.pdf) was accepted at [DeepTest 2020](https://deeptestconf.github.io/).
-* February 6, 2020. [Demo: SLEMI: Finding Simulink Compiler Bugs through Equivalence Modulo Input (EMI)](http://ranger.uta.edu/~csallner/papers/Chowdhury20Demo.pdf) was accepted at [ICSE 2020](https://conf.researchr.org/home/icse-2020).
+* February 6, 2020. [Demo: SLEMI: Finding Simulink Compiler Bugs through Equivalence Modulo Input (EMI)](http://ranger.uta.edu/~csallner/papers/Chowdhury20Demo.pdf) was accepted at [ICSE 2020](https://conf.researchr.org/home/icse-2020) (CORE A*, Acceptance rate: 33.3%).
 * February 2, 2020. I will be presenting my research [Automatic Generation of Simulink Models to Find Bugs in a Cyber-Physical System Tool Chain using Deep Learning](https://github.com/50417/50417.github.io/tree/master/files/DeepFuzzSL_SRC.pdf) at [ACM Student Research Competition at ICSE 2020](https://conf.researchr.org/home/icse-2020).
 * December 8, 2019. Our paper [SLEMI: Equivalence Modulo Input (EMI) Based Mutation of CPS
-              Models for Finding Compiler Bugs in Simulink](http://ranger.uta.edu/~csallner/papers/Chowdhury20SLEMI.pdf) was accepted in International Conference in Software Engineering 2020[(ICSE)](https://conf.researchr.org/home/icse-2020)
+              Models for Finding Compiler Bugs in Simulink](http://ranger.uta.edu/~csallner/papers/Chowdhury20SLEMI.pdf) was accepted in International Conference in Software Engineering 2020[(ICSE)](https://conf.researchr.org/home/icse-2020) (CORE A*, Acceptance rate: 20.9%)
 * August 8, 2019. Our National Science Foundation [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1911017&HistoricalAwards=false) to explore mutation and deep-learning based compiler validation has been accepted!  
 * May 30, 2019. Received Diversity and Inclusion fellowship to attend [ICML](https://icml.cc/).
 * May 18 - 25, 2019. Was accepted to [Ninth Summer School on Formal Techniques](http://fm.csl.sri.com/SSFT19/).
