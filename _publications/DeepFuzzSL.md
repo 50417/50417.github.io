@@ -3,7 +3,7 @@ title: "DeepFuzzSL: Generating models with deep learning to find bugs in the Sim
 collection: publications
 permalink: /publications/DeepFuzzSL
 venue: "DeepTest"
-date: 2018-5-27
+date: 2020-5-27
 citation: '<b>Shrestha, Sohil L.</b>, Shafiul Azam Chowdhury and Christoph Csallner. "DeepFuzzSL: Generating models with deep learning to find bugs in the Simulink toolchain." Proc. 2nd Workshop on Testing for Deep Learning and Deep Learning for Testing (DeepTest), 2020.'
 ---
 [Download paper here](http://ranger.uta.edu/~csallner/papers/Shrestha20DeepFuzzSL.pdf) 
