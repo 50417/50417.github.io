@@ -18,6 +18,7 @@ redirect_from:
 
 
 # Recent News
+* July 17th, 2023, Gave a talk at the ISSTA Doctoral Symposium. [Slide](https://docs.google.com/presentation/d/17teE4zNCAfQkIH6uHtckrBJf7PDqR3WBpc_k6wn2fHM/edit?usp=sharing)
 * July 7th, 2023, Received Travel Support Grant from ESEM 2023 SIGSOFT CAPS 
 * July 1st, 2023, Replicability Study: Corpora For Understanding Simulink Models & Projects is accepted at [ESEM 2023](https://conf.researchr.org/home/esem-2023) (CORE A, Acceptance rate: 29%)
 * June 27, 2023, EvoSL: A Large Open-Source Corpus of Changes in Simulink Models & Projects is accepted at [MODELS 2023](https://conf.researchr.org/track/models-2023/models-2023-technical-track) (CORE A, Acceptance rate: 24.6%)
