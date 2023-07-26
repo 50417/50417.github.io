@@ -18,6 +18,8 @@ redirect_from:
 
 
 # Recent News
+* July 22nd-July 27th, 2023, Involved in PEARC 2023 Student Program and Volunteer. 
+* July 25th, 2023, Gave a lightning talk at [PEARC 2023](https://pearc.acm.org/pearc23/)
 * July 17th-21st, 2023, Volunteered at [ISSTA/ECCOP 2023](https://conf.researchr.org/home/ecoop-issta-2023)
 * July 17th, 2023, Gave a talk at the ISSTA Doctoral Symposium. [Slide](https://docs.google.com/presentation/d/17teE4zNCAfQkIH6uHtckrBJf7PDqR3WBpc_k6wn2fHM/edit?usp=sharing)
 * July 7th, 2023, Received Travel Support Grant from ESEM 2023 SIGSOFT CAPS 
