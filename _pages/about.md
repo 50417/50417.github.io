@@ -18,6 +18,9 @@ redirect_from:
 
 
 # Recent News
+* Aug 18, 2023, ScoutSL: An Open-source Simulink Search Engine is accepted at [MODELS 2023](https://conf.researchr.org/track/models-2023/models-2023-tools-and-demonstrations) 
+* Aug 9th-Aug10th, Attended [blackhat 2023](https://www.blackhat.com/us-23/)
+* July 31st -Aug 4th, Virtually attended [UAI 2023](https://www.auai.org/uai2023/)
 * July 22nd-July 27th, 2023, Involved in PEARC 2023 Student Program and Volunteer. 
 * July 25th, 2023, Gave a lightning talk at [PEARC 2023](https://pearc.acm.org/pearc23/)
 * July 17th-21st, 2023, Volunteered at [ISSTA/ECCOP 2023](https://conf.researchr.org/home/ecoop-issta-2023)
@@ -25,7 +28,7 @@ redirect_from:
 * July 7th, 2023, Received Travel Support Grant from ESEM 2023 SIGSOFT CAPS 
 * July 1st, 2023, Replicability Study: Corpora For Understanding Simulink Models & Projects is accepted at [ESEM 2023](https://conf.researchr.org/home/esem-2023) (CORE A, Acceptance rate: 29%)
 * June 27, 2023, EvoSL: A Large Open-Source Corpus of Changes in Simulink Models & Projects is accepted at [MODELS 2023](https://conf.researchr.org/track/models-2023/models-2023-technical-track) (CORE A, Acceptance rate: 24.6%)
-* June 23, 2023, Accepted as a [WISP](https://www.wisporg.com) Scholar to attend [blackhat](https://www.blackhat.com/us-23/briefings.html) USA 2023 Conference 
+* June 23, 2023, Accepted as a [WISP](https://www.wisporg.com/blog-posts/2023/7/28/announcing-the-2023-black-hat-usa-scholars) Scholar to attend [blackhat](https://www.blackhat.com/us-23/briefings.html) USA 2023 Conference 
 * June 17, 2023, Received [UAI 2023](https://www.auai.org/uai2023/) Student Scholarship.
 * June 5, 2023, Harnessing Large Language Models for Simulink Toolchain Testing and Developing Diverse Open-Source Corpora of Simulink Models for Metric and Evolution Analysis is accepted in [ISSTA 2023 Doctoral Symposium](https://2023.issta.org/track/ecoop-issta-2023-doctoral-symposium)
 * June 1, 2023, Received Travel Support Grant from SIGSOFT CAPS ISSTA 2023
