@@ -18,7 +18,9 @@ redirect_from:
 
 
 # Recent News
-* Aug 18, 2023, ScoutSL: An Open-source Simulink Search Engine is accepted at [MODELS 2023](https://conf.researchr.org/track/models-2023/models-2023-tools-and-demonstrations) 
+* Sept 8th, 2023, Received NSF Travel grant to attend ESEM 2023
+* Aug 21st, 2023, Received Travel support from [ACCESS](https://access-ci.org) to attend SC23.
+* Aug 18th, 2023, ScoutSL: An Open-source Simulink Search Engine is accepted at [MODELS 2023](https://conf.researchr.org/track/models-2023/models-2023-tools-and-demonstrations) 
 * Aug 9th-Aug10th, Attended [blackhat 2023](https://www.blackhat.com/us-23/)
 * July 31st -Aug 4th, Virtually attended [UAI 2023](https://www.auai.org/uai2023/)
 * July 22nd-July 27th, 2023, Involved in PEARC 2023 Student Program and Volunteer. 
