@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Click here to view my 1-page Resume in pdf](http://50417.github.io/files/Sohil_Resume.pdf)
-[Click here to view my CV in pdf](http://50417.github.io/files/Sohil_CV.pdf)
+[View 1-page Resume](http://50417.github.io/files/Sohil_Resume.pdf)<br>
+[View my CV](http://50417.github.io/files/MASTER_Resume_CV.pdf)
