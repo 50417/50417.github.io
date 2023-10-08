@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/ISSTADoc
 venue: "ISSTA"
 date: 2023-6-7
-citation: '<b>Shrestha, Sohil L.</b>. "Harnessing Large Language Models for Simulink Toolchain Testing and Developing Diverse Open-Source Corpora of Simulink Models for Metric and Evolution Analysis", ISSTA 2023.'
+citation: '<b>Sohil Lal Shrestha</b>. "Harnessing Large Language Models for Simulink Toolchain Testing and Developing Diverse Open-Source Corpora of Simulink Models for Metric and Evolution Analysis", ISSTA 2023.'
 ---
 [Download paper here](http://50417.github.io/files/ISSTADocSymposium.pdf) 
 

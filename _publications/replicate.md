@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/replicate
 venue: "ESEM"
 date: 2023-10-24
-citation: '<b>Shrestha, Sohil L.</b>, Shafiul Azam Chowdhury and Christoph Csallner. "Replicability Study: Corpora For Understanding Simulink Models & Projects", ESEM 2023.'
+citation: '<b>Sohil Lal Shrestha</b>, Shafiul Azam Chowdhury and Christoph Csallner. "Replicability Study: Corpora For Understanding Simulink Models & Projects", ESEM 2023.'
 ---
 [Download paper here](https://ranger.uta.edu/~csallner/papers/Shrestha23Replicating.pdf) 
 

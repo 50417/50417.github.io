@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/CMLvDSE
 venue: "RAISE"
 date: 2018-5-27
-citation: '<b>Shrestha, Sohil L.</b>, Saroj Panda, and Christoph Csallner. "Complementing Machine Learning Classifiers via Dynamic Symbolic Execution: Human vs. Bot Generated Tweets." 2018 IEEE/ACM 6th International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering (RAISE). IEEE, 2018.'
+citation: '<b>Sohil Lal Shrestha</b>, Saroj Panda, and Christoph Csallner. "Complementing Machine Learning Classifiers via Dynamic Symbolic Execution: Human vs. Bot Generated Tweets." 2018 IEEE/ACM 6th International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering (RAISE). IEEE, 2018.'
 ---
 [Download paper here](http://ranger.uta.edu/~csallner/papers/Shrestha18Complementing.pdf) 
 

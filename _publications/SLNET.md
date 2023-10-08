@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/SLNET
 venue: "MSR (CORE A , Acceptance rate: 74% (high acceptance rate has to do with the high-quality submission to the datashowcase track)) "
 date: 2022-5-18
-citation: '<b>Shrestha, Sohil L.</b>, Shafiul Azam Chowdhury and Christoph Csallner. "SLNET: A Redistributable Corpus of 3rd-party Simulink Models.  IEEE/ACM 19th International Conference on Mining Software Repositories (MSR). 2022'
+citation: '<b>Sohil Lal Shrestha</b>, Shafiul Azam Chowdhury and Christoph Csallner. "SLNET: A Redistributable Corpus of 3rd-party Simulink Models.  IEEE/ACM 19th International Conference on Mining Software Repositories (MSR). 2022'
 ---
 [Download paper here](https://ranger.uta.edu/~csallner/papers/Shrestha22SLNET.pdf) 
 
