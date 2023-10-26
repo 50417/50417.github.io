@@ -9,6 +9,7 @@ citation: '<b>Sohil Lal Shrestha</b>, Shafiul Azam Chowdhury and Christoph Csall
 [Download paper here](https://ranger.uta.edu/~csallner/papers/Shrestha23Replicating.pdf) <br>
 [Artifacts](https://figshare.com/articles/dataset/Replicability_Study_Corpora_For_Understanding_Simulink_Models_Projects/22064969)<br>
 [Tool](https://zenodo.org/records/8111687) <br>
+
 ## Abstract
 Abstract—<br>
 Background: Empirical studies on widely used model-based development tools such as MATLAB/Simulink are limited despite the tools’ importance in various industries. <br>
