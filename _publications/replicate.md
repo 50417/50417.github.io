@@ -9,6 +9,7 @@ citation: '<b>Sohil Lal Shrestha</b>, Shafiul Azam Chowdhury and Christoph Csall
 [Download paper here](https://ranger.uta.edu/~csallner/papers/Shrestha23Replicating.pdf) <br>
 [Artifacts](https://figshare.com/articles/dataset/Replicability_Study_Corpora_For_Understanding_Simulink_Models_Projects/22064969)<br>
 [Tool](https://zenodo.org/records/8111687) <br>
+[Slides at ESEM](https://docs.google.com/presentation/d/1hD9ZesE00mmEgiXn07dVET_W7xQSGcFAJ272ppxVwp8/edit?usp=sharing) <br>
 
 ## Abstract
 Abstract—<br>
