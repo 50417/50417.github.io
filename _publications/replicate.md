@@ -12,7 +12,6 @@ citation: '<b>Sohil Lal Shrestha</b>, Shafiul Azam Chowdhury and Christoph Csall
 [ESEM Slides](https://docs.google.com/presentation/d/1hD9ZesE00mmEgiXn07dVET_W7xQSGcFAJ272ppxVwp8/edit?usp=sharing) <br>
 
 ## Abstract
-Abstract—<br>
 Background: Empirical studies on widely used model-based development tools such as MATLAB/Simulink are limited despite the tools’ importance in various industries. <br>
 Aims: The aim of this paper is to investigate the reproducibility of previous empirical studies that used Simulink model corpora and to evaluate the generalizability of their results to a newer and larger corpus, including a comparison with proprietary models.<br>
 Method: The study reviews methodologies and data sources employed in prior Simulink model studies and replicates the previous analysis using SLNET. In addition, we propose a heuristic for determining code-generating Simulink models and assess the open-source models’ similarity to proprietary models.<br>
