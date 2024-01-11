@@ -18,6 +18,7 @@ redirect_from:
 
 
 # Recent News
+* Jan 8th, 2024, Joined Meta as Research Scientist
 * Nov 8th, 2023, Passed my Ph.D. defense. [Slides](https://docs.google.com/presentation/d/1wDSXXj0pcr2R7jnnr6HWLny_qGZ9dyPm4rQBiMyVcDg/edit?usp=sharing)
 * Oct 27th, 2023, Presented [Replicability Study: Corpora For Understanding Simulink Models & Projects](https://ranger.uta.edu/~csallner/papers/Shrestha23Replicating.pdf) at ESEM [Slides](https://docs.google.com/presentation/d/1hD9ZesE00mmEgiXn07dVET_W7xQSGcFAJ272ppxVwp8/edit?usp=sharing)
 * Sept 8th, 2023, Received NSF Travel grant to attend ESEM 2023
