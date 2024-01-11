@@ -12,7 +12,8 @@ redirect_from:
   <img src="https://50417.github.io/files/Sohil_IMG.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am a Ph.D candidate in the [Software Engineering Research Center](https://cse.uta.edu/research/centers-labs.php#serc) at the [University of Texas at Arlington](https://www.uta.edu), graduating in December 2023. 
+* I am working as Research Scientist at [Meta](https://www.meta.com). 
+* I received my Ph.D. from [University of Texas at Arlington](https://www.uta.edu), and worked at [Software Engineering Research Center](https://cse.uta.edu/research/centers-labs.php#serc) under [Dr. Christoph Csallner](https://ranger.uta.edu/~csallner/). 
 * I received my Bachelor’s Degree in Computer Engineering from [Kathmandu University](https://ku.edu.np) 
 *  My research focuses on applications and development of machine learning/deep learning methods as well as natural language processing for Software Engineering and vice versa.
 
