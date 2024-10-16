@@ -19,6 +19,7 @@ redirect_from:
 
 
 # Recent News
+* April 22nd, 2024, Won Best Dissertation [Award](https://www.linkedin.com/posts/cseuta_academicexcellence-hardworkpaysoff-congratulations-activity-7191583127700402179-LKqS/?utm_source=share&utm_medium=member_desktop) 
 * Jan 8th, 2024, Joined Meta as Research Scientist
 * Nov 8th, 2023, Passed my Ph.D. defense. [Slides](https://docs.google.com/presentation/d/1wDSXXj0pcr2R7jnnr6HWLny_qGZ9dyPm4rQBiMyVcDg/edit?usp=sharing)
 * Oct 27th, 2023, Presented [Replicability Study: Corpora For Understanding Simulink Models & Projects](https://ranger.uta.edu/~csallner/papers/Shrestha23Replicating.pdf) at ESEM [Slides](https://docs.google.com/presentation/d/1hD9ZesE00mmEgiXn07dVET_W7xQSGcFAJ272ppxVwp8/edit?usp=sharing)
